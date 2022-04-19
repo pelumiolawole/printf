@@ -1,6 +1,7 @@
 # Printf
 ---
 
+
 ## Summary
 This is a simple implementation of printf function that formats and prints data
 ---
@@ -194,7 +195,7 @@ Function That Prints An Integer Begining With 0 And u.
 Function That Returns The Amount Of Identifiers.
 
 # Authors
-<a href="https://github.com/EbbiesO/printf">Ebunoluwa Obaje</a>
+<a href="https://github.com/EbbiesO/">Ebunoluwa Obaje</a>
 <br/>
 <a href="https://github.com/pelumiolawole/printf">Pelumi Olawole</a>
  
