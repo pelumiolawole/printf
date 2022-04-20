@@ -7,6 +7,7 @@
  * @ibuf: index for buffer pointer
  * Return: number of chars printed.
  */
+ 
 int prinhunt(va_list arguments, char *buf, unsigned int ibuf)
 {
 	unsigned short int int_in, int_temp, i, div;

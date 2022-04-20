@@ -7,6 +7,7 @@
  * @ibuf: index for buffer pointer
  * Return: number of chars printed
  */
+ 
 int prinlupx(va_list arguments, char *buf, unsigned int ibuf)
 {
 	long int int_input, i, isnegative, count, first_digit;

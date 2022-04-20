@@ -6,6 +6,7 @@
  * @index: index of argument identifier.
  * Return: amount of identifiers.
  */
+ 
 int ev_print_func(const char *s, int index)
 {
 	print_t pr[] = {
